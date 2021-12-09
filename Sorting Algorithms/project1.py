@@ -3,9 +3,8 @@ Math 560
 Project 1
 Fall 2021
 
-Partner 1: Kavi Freyaldenhoven kf154
-Partner 2: Francesco Mastrocinque fam21
-Date: 10/29/2021
+Kavi Freyaldenhoven kf154
+
     
 
 """
