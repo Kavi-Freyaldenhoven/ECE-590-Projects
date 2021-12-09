@@ -3,9 +3,8 @@ Math 560
 Project 5
 Fall 2021
 
-Partner 1: Kavi Freyaldenhoven kf154
-Partner 2: Francesco Mastrocinque fam21
-Date:
+Kavi Freyaldenhoven kf154
+
 """
 
 # Import math, itertools, and time.
