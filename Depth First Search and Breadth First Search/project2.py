@@ -5,9 +5,7 @@ Fall 2021
 
 project2.py
 
-Partner 1: Kavi Freyaldenhoven kf154
-Partner 2: Francesco Mastrocinque fam21
-Date:
+Kavi Freyaldenhoven kf154
 """
 
 # Import math and other p2 files.
